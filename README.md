@@ -8,7 +8,7 @@ Web application that allows the user to upload files (.csv, application/vnd.ms-e
 
 On the main page, the user can see their account balance and a list with their incomes and outcomes items.  
 
-Your can check  out the preview bellow!
+Your can check  out the preview below!
 
 
 ![gofinances-web demonstration gif](https://github.com/cgmbauer/assets/blob/master/gifs/gofinancesspeed.gif)   
@@ -36,7 +36,7 @@ git clone https://github.com/cgmbauer/github-explorer.git
 - **2º.** Go inside the folder, using your terminal, and execute the command ``` yarn ```, to install all the dependencies. 
 
 - Then you will need the back-end from this application. You can get it [here](https://github.com/cgmbauer/desafio-database-upload),
-or you can just clone the repository following the code bellow:
+or you can just clone the repository following the code below:
 ```sh
 git clone https://github.com/cgmbauer/desafio-database-upload.git
 ```
@@ -44,7 +44,7 @@ git clone https://github.com/cgmbauer/desafio-database-upload.git
 
 - **5º.** To start the application, first go on your terminal (on the back-end directory) and run ```yarn dev:server```. This will start the back-end of the application.
 
-- ** 6º.** Then, to start the front-end, go on your terminal (on the front-end directory) and run ```yarn start```. This will start the front-end of the application.
+- **6º.** Then, to start the front-end, go on your terminal (on the front-end directory) and run ```yarn start```. This will start the front-end of the application.
 
 - **7º.** Remember, both front-end and back-end must be running. You can have two or more terminals open, running the steps **5º** and **6º**.
 
