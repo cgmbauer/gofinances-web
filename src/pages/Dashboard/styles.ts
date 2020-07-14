@@ -65,7 +65,8 @@ export const TableContainer = styled.section`
 
     td {
       padding: 20px 32px;
-      border: 0;
+      /* border: 0; */
+      border: 8px 8px 8px 8px;
       background: #fff;
       font-size: 16px;
       font-weight: normal;
@@ -85,11 +86,11 @@ export const TableContainer = styled.section`
     }
 
     td:first-child {
-      border-radius: 8px 0 0 8px;
+      /* border-radius: 8px 0 0 8px; */
     }
 
     td:last-child {
-      border-radius: 0 8px 8px 0;
+      /* border-radius: 0 8px 8px 0; */
     }
   }
 `;
