@@ -52,7 +52,7 @@ git clone https://github.com/cgmbauer/desafio-database-upload.git
 
 ### Note
 
-- The import file must follow this [template](https://github.com/Rocketseat/bootcamp-gostack-desafios/blob/master/desafio-database-upload/assets/file.csv).: 
+- The imported file must follow this [template](https://github.com/Rocketseat/bootcamp-gostack-desafios/blob/master/desafio-database-upload/assets/file.csv).: 
 
 ## Acknowledgments
 
