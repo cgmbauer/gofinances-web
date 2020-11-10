@@ -31,7 +31,7 @@ Your can check  out the preview below!
 
 - **1º.** First, clone this repository, to get the front-end application:
 ```sh
-git clone https://github.com/cgmbauer/github-explorer.git
+git clone https://github.com/cgmbauer/gofinances-web.git
 ```
 - **2º.** Go inside the folder, using your terminal, and execute the command ``` yarn ```, to install all the dependencies. 
 
